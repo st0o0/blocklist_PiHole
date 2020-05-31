@@ -1,2 +1,6 @@
-Hallo# blocklist_PiHole
-# blocklist_PiHole
+# Auto-updated blocklist 
+Every week new update
+## Changes
+### 310520
+* Domains added: 0
+* Domains deleted: 0
